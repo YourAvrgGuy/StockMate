@@ -139,6 +139,6 @@ Traditional manual stock tracking (using paper logbooks or spreadsheets) present
 **Project Version:** `1.0.1`
 
 
-👉 Click here to read the full [Project Description](project-description.md).
+👉 Click here to read the full [Project Description](StockMate%20Project/Documentation/project-description.md).
 
 `
