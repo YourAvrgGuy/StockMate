@@ -1,4 +1,4 @@
-```
+
 StockMate is a basic, interactive, and modern mobile Inventory Management System built for Android using Kotlin, Jetpack Compose, and Room Database.
 The application provides an intuitive mobile platform for small business owners, retail managers, and storekeepers to create and manage local product inventories, track real-time stock levels, record customer sales transactions, automatically compute net profit margins, and perform seamless cloud backups directly to Google Drive.
 The app is built following standard Android architecture principles, utilizing Kotlin Coroutines and Flows for reactive real-time database updates, custom high-contrast input fields for dark/light theme compatibility, and Storage Access Framework (FileProvider) for direct Google Drive JSON file backup and restore.
@@ -71,9 +71,8 @@ Real-time Overview Cards: Displays live statistics observed directly from Room D
 • Direct Drive Upload: Packages all products, quantities, prices, sales, and profits into a formatted JSON backup file (stockmate_backup.json) and opens the Google Drive app (Save to Drive) via FileProvider.
 • Cloud Restore: Pick and import backup JSON files from Google Drive to restore inventory records onto any Android device.
 
-
-
 ```
+
 ---
 
 ## 👥 Developers
