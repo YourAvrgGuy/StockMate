@@ -118,11 +118,11 @@ Traditional manual stock tracking (using paper logbooks or spreadsheets) present
 
 | 1. Start Screen | 2. Dashboard | 3. Add Product Form |
 | :---: | :---: | :---: |
-| ![Start Screen](https://via.placeholder.com/300x600?text=Start+Screen) | ![Dashboard](https://via.placeholder.com/300x600?text=Dashboard) | ![Add Product](https://via.placeholder.com/300x600?text=Add+Product) |
+| ![Start Screen](/screenshots/SMStartScreen.png) | ![Dashboard](/screenshots/SmDashboard.png) | ![Add Product](/screenshots/SMAddNewProduct.png) |
 
 | 4. Check Stock & Filters | 5. Edit Product | 6. Sales & Profit History |
 | :---: | :---: | :---: |
-| ![Check Stock](https://via.placeholder.com/300x600?text=Check+Stock) | ![Edit Product](https://via.placeholder.com/300x600?text=Edit+Product) | ![Sales History](https://via.placeholder.com/300x600?text=Sales+History) |
+| ![Check Stock](/screenshots/SMCheckStock.png) | ![Edit Product](/screenshots/SMEditProduct.png) | ![Sales History](/screenshots/SMCustomerProfit.png) |
 
 ---
 
