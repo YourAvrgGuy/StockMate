@@ -71,7 +71,7 @@ Real-time Overview Cards: Displays live statistics observed directly from Room D
 • Direct Drive Upload: Packages all products, quantities, prices, sales, and profits into a formatted JSON backup file (stockmate_backup.json) and opens the Google Drive app (Save to Drive) via FileProvider.
 • Cloud Restore: Pick and import backup JSON files from Google Drive to restore inventory records onto any Android device.
 
-```
+
 
 ---
 
