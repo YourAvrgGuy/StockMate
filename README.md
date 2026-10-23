@@ -118,11 +118,11 @@ Traditional manual stock tracking (using paper logbooks or spreadsheets) present
 
 | 1. Start Screen | 2. Dashboard | 3. Add Product Form |
 | :---: | :---: | :---: |
-| ![Start Screen](/screenshots/SMStartScreen.png) | ![Dashboard](/screenshots/SmDashboard.png) | ![Add Product](/screenshots/SMAddNewProduct.png) |
+| ![Start Screen](StockMateProject/screenshots/SMStartScreen.png) | ![Dashboard](StockMateProject/screenshots/SmDashboard.png) | ![Add Product](StockMateProject/screenshots/SMAddNewProduct.png) |
 
 | 4. Check Stock & Filters | 5. Edit Product | 6. Sales & Profit History |
 | :---: | :---: | :---: |
-| ![Check Stock](/screenshots/SMCheckStock.png) | ![Edit Product](/screenshots/SMEditProduct.png) | ![Sales History](/screenshots/SMCustomerProfit.png) |
+| ![Check Stock](StockMateProject/screenshots/SMCheckStock.png) | ![Edit Product](StockMateProject/screenshots/SMEditProduct.png) | ![Sales History](StockMateProject/screenshots/SMCustomerProfit.png) |
 
 ---
 
