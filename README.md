@@ -28,7 +28,7 @@ Traditional manual stock tracking (using paper logbooks or spreadsheets) present
 * To prevent duplicate entry errors by strictly validating Product IDs and numerical inputs.
 * To simplify point-of-sale customer purchases and calculate **Total Revenue** and **Net Profit** in real-time.
 * To enable users to void/undo mistaken sales and restock items back into inventory automatically.
-* To provide reliable data storage using Room SQLite Database and allow easy export/import backups to **Google Drive**.
+* To provide reliable data storage using Local Storage and allow easy export/import backups to **Google Drive**.
 
 ---
 
