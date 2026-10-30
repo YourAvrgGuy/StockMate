@@ -53,20 +53,22 @@ Real-time Overview Cards: Displays live statistics observed directly from Room D
 # 5. Check Stock & Multi-Filter System
 • Live Product List: Reactive display of all stored items.
 • Multi-Level Filters:
-◦ Real-time search bar (ID, Name, or Category).
-◦ Stock Status Chips (All, In Stock, Low Stock, Out of Stock).
-◦ Dynamic Category Filter Chips (generated automatically from stored database categories).
+• Real-time search bar (ID, Name, or Category).
+• Stock Status Chips (All, In Stock, Low Stock, Out of Stock).
+• Dynamic Category Filter Chips (generated automatically from stored database categories).
 • Color-coded Stock Badges:
-◦ 🟢 In Stock: Quantity > 10 units.
-◦ 🟠 Low Stock: Quantity between 1 and 10 units.
-◦ 🔴 Out of Stock: Quantity = 0 units.
+• 🟢 In Stock: Quantity > 10 units.
+• 🟠 Low Stock: Quantity between 1 and 10 units.
+• 🔴 Out of Stock: Quantity = 0 units.
 • Quick Purchase Action: Includes a 🛒 Sell 1 button directly on each product card.
 
 # 6. Customer Purchases & Automated Profit Engine
-•Customer Purchase Dialog: Dropdown selector to choose items and enter quantity sold.
+• Customer Purchase Dialog: Dropdown selector to choose items and enter quantity sold.
 • Automated Stock Decrement: Automatically reduces stock upon purchase.
 • Automated Profit Calculation: Net Profit = (Selling Price - Cost Price) × Quantity Sold
 • Undo / Restock Feature: One-tap button on Recent Sales to void accidental sales, refund revenue, and restock items back into inventory.
+
+
 7. Direct Google Drive Cloud Backup & Restore
 • Direct Drive Upload: Packages all products, quantities, prices, sales, and profits into a formatted JSON backup file (stockmate_backup.json) and opens the Google Drive app (Save to Drive) via FileProvider.
 • Cloud Restore: Pick and import backup JSON files from Google Drive to restore inventory records onto any Android device.
