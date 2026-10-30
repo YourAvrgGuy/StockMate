@@ -13,17 +13,17 @@ Traditional manual inventory tracking (using paper ledgers, notebooks, or manual
 StockMate solves these issues by providing an automated, real-time mobile app with instant visual stock indicators, automated net profit tracking, an Undo / Restock feature for accidental sales, high-contrast inputs, and direct Google Drive JSON backups.
 
 🎯 Objectives
-• Objective 1: Simple & Interactive Mobile UI — Provide a clean, light-blue user interface tailored for first-year college project presentation and everyday mobile usability.
+• Simple & Interactive Mobile UI — Provide a clean, light-blue user interface tailored for first-year college project presentation and everyday mobile usability.
 
-• Objective 2: Real-time Stock Monitoring — Automate inventory counts and display color-coded status badges (In Stock, Low Stock, Out of Stock).
+• Real-time Stock Monitoring — Automate inventory counts and display color-coded status badges (In Stock, Low Stock, Out of Stock).
 
-• Objective 3: Robust Input Validation & Duplicate Prevention — Strictly validate user input (prevent negative numbers or empty fields) and block duplicate Product IDs in Room Database.
+• Robust Input Validation & Duplicate Prevention — Strictly validate user input (prevent negative numbers or empty fields) and block duplicate Product IDs in Room Database.
 
-• Objective 4: Automated Point-of-Sale & Profit Tracking — Automatically decrease stock when customer purchases are recorded and compute net profits in real-time (Net Profit = (Selling Price - Cost Price) × Qty).
+• Automated Point-of-Sale & Profit Tracking — Automatically decrease stock when customer purchases are recorded and compute net profits in real-time (Net Profit = (Selling Price - Cost Price) × Qty).
 
-• Objective 5: Error Correction (Undo / Restock) — Provide an Undo / Restock mechanism to void miscalculated sales and return items to stock immediately.
+• Error Correction (Undo / Restock) — Provide an Undo / Restock mechanism to void miscalculated sales and return items to stock immediately.
 
-• Objective 6: Google Drive Cloud Integration — Allow users to export and import complete JSON database backups directly to their phone's Google Drive app.
+• Google Drive Cloud Integration — Allow users to export and import complete JSON database backups directly to their phone's Google Drive app.
 
 🚀 Features
 1. Start Screen & Onboarding
