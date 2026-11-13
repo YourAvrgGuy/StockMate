@@ -127,13 +127,7 @@ Traditional manual stock tracking (using paper logbooks or spreadsheets) present
 
 ## 👥 Developers
 
-* **Lead Developer / Contributor**: `"Prince Centeno",
-"Mark Pedong",
-"Dela Cruz Joshue",
-`
-* **Group Member**: `Johnrick Opena`
-* **Group Member**: `Mark Jerome Valdez`
-* **Group Member**: `Limuel Christian Santos`
+
 
 **Course / Subject:** Mobile Application Development
 **Project Version:** `1.0.1`
